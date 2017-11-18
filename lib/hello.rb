@@ -7,7 +7,7 @@ def hello_t
       i = i + 1
     end
 
-    array
+    
   else
     puts "Hey! No block was given!"
   end
@@ -20,4 +20,3 @@ end
     puts "Hi, #{name}"
   end
 end
-
